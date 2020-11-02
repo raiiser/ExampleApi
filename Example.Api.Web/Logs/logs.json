@@ -1,0 +1,2 @@
+{"Timestamp":"2020-11-02T11:34:08.9176481+01:00","Level":"Information","MessageTemplate":"Démarrage de l'application.","Properties":{"ApplicationName":"Serilog.WebApplication"}}
+{"Timestamp":"2020-11-02T11:41:48.2225651+01:00","Level":"Information","MessageTemplate":"Démarrage de l'application.","Properties":{"ApplicationName":"Serilog.WebApplication"}}
